@@ -1,0 +1,1 @@
+> So it's been a while since I have done any coding, a few days ago I tried spinning up a simple node back-end and realised after a few months of no coding I have forgotten even the simplest of coding. This is me starting again. Back to basics
